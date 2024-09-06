@@ -5,6 +5,5 @@ Estou aprendendo a linguagem JavaScript para fazer jogos e me divertir,
 
 irei utilizar o GitHub para postar meus projetos (se eu lembrar 😅) 
 
-![](https://media.tenor.com/1uKpKHCxNsEAAAAj/anime-joget-rgb.gif)
+![](https://media.tenor.com/1uKpKHCxNsEAAAAj/anime-joget-rgb.gif)  ![](https://media.tenor.com/lhrBub_hnywAAAAi/astolfo-fate.gif)
 
-![](https://media.tenor.com/NM5nVgv3vL8AAAAi/saber-fate.gif)
